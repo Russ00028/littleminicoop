@@ -11,10 +11,15 @@ form {
 }
 
 
-img.logoregis, img.avatar {
+img.logoregis{
   width: 50%;
   border-radius: 50%;
-
+  margin-left: 20%;
+}
+ img.avatar {
+  width: 50%;
+  border-radius: 50%;
+ 
   }
   .imgcontainer {
     text-align: center;
